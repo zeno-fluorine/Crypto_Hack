@@ -5,7 +5,7 @@ We've looked at multiplication and division in modular arithmetic, but what does
 
 For the following discussion, let's work modulo p=29p=29. We can take the integer a=11a=11 and calculate a2=5mod  29a2=5mod29.
 
-As a=11,a2=5a=11,a2=5, we say the square root of 55 is 1111.
+As a=11,a2=5a=11,a2=5, we say the square root of 5 is 11.
 
 This feels good, but now let's think about the square root of 1818. From the above, we know we need to find some integer aa such that a2=18a2=18
 
