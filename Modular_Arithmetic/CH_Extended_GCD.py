@@ -1,6 +1,6 @@
 ### Extended GCD
 
-""" Let a and b be positive integers.
+""" Let aa and bb be positive integers.
 
 The extended Euclidean algorithm is an efficient way to find integers u,v such that
 
